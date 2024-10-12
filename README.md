@@ -71,10 +71,6 @@ Crie um arquivo chamado `.gitignore` na raiz do seu projeto e adicione a seguint
 .env
 ```
 
-## Agradecimentos
-
-Agradecimentos especiais à comunidade de desenvolvedores que tornam projetos como este possíveis e acessíveis.
-
 ## Desenvolvedores
 
 Gabriel Cardoso Lima:
