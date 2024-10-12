@@ -1,0 +1,4 @@
+// Usuário e senha para login
+
+Usuário: bob -> Senha: senha_bob
+Usuário: alice -> Senha: senha_alice
